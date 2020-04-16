@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Substituição muito legal de um bloco todo de else para uma linha">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa_curso_em_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa_curso_em_video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exc071.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc071.py" afterDir="false" />
-    </list>
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exercicio 71 atualizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587006613985</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="exercicio 71 atualizado">
+      <created>1587008418900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587008418900</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,7 +240,8 @@
     <MESSAGE value="Nomes dos exc att" />
     <MESSAGE value="Nomes dos exc att 070" />
     <MESSAGE value="Substituição muito legal de um bloco todo de else para uma linha" />
-    <option name="LAST_COMMIT_MESSAGE" value="Substituição muito legal de um bloco todo de else para uma linha" />
+    <MESSAGE value="exercicio 71 atualizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicio 71 atualizado" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
@@ -260,22 +264,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586984687563" />
-    <state width="450" height="285" key="GridCell.Tab.0.bottom" timestamp="1587006661183">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587008425467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="450" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
-    <state width="450" height="285" key="GridCell.Tab.0.center" timestamp="1587006661183">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587008425467" />
+    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587008425467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="450" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
-    <state width="450" height="285" key="GridCell.Tab.0.left" timestamp="1587006661183">
+    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587008425467" />
+    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587008425467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="450" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
-    <state width="450" height="285" key="GridCell.Tab.0.right" timestamp="1587006661183">
+    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587008425467" />
+    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587008425467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="450" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
+    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587008425467" />
     <state width="901" height="336" key="GridCell.Tab.1.bottom" timestamp="1585238708408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
