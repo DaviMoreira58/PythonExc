@@ -10,9 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Nomes dos exc att 070">
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Substituição muito legal de um bloco todo de else para uma linha">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exc070.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aa_curso_em_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa_curso_em_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exc071.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc071.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,28 +48,7 @@
       <recent name="C:\Users\User\PycharmProjects\pythonTestes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exc070">
-    <configuration name="exc066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonTestes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc066.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.exc071">
     <configuration name="exc067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonTestes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +133,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exc071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonTestes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc071.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exc071" />
         <item itemvalue="Python.exc070" />
         <item itemvalue="Python.exc069" />
         <item itemvalue="Python.exc068" />
         <item itemvalue="Python.exc067" />
-        <item itemvalue="Python.exc066" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +203,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587005190520</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nomes dos exc att 070">
+      <created>1587006554240</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587006554240</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Substituição muito legal de um bloco todo de else para uma linha">
+      <created>1587006613985</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587006613985</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +236,8 @@
     <MESSAGE value="Exercicio 69 att" />
     <MESSAGE value="Nomes dos exc att" />
     <MESSAGE value="Nomes dos exc att 070" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nomes dos exc att 070" />
+    <MESSAGE value="Substituição muito legal de um bloco todo de else para uma linha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Substituição muito legal de um bloco todo de else para uma linha" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
@@ -244,22 +260,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586984687563" />
-    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587006443128">
+    <state width="450" height="285" key="GridCell.Tab.0.bottom" timestamp="1587006661183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587006443128" />
-    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587006443128">
+    <state width="450" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
+    <state width="450" height="285" key="GridCell.Tab.0.center" timestamp="1587006661183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587006443128" />
-    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587006443128">
+    <state width="450" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
+    <state width="450" height="285" key="GridCell.Tab.0.left" timestamp="1587006661183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587006443128" />
-    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587006443128">
+    <state width="450" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
+    <state width="450" height="285" key="GridCell.Tab.0.right" timestamp="1587006661183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587006443128" />
+    <state width="450" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587006661183" />
     <state width="901" height="336" key="GridCell.Tab.1.bottom" timestamp="1585238708408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

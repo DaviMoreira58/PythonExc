@@ -113,7 +113,7 @@ Exercício Python 070: Crie um programa que leia o nome e o preço de vários pr
 A) qual é o total gasto na compra.
 B) quantos produtos custam mais de R$1000.
 C) qual é o nome do produto mais barato.
-
+Exercício Python 071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues
 
 
 
