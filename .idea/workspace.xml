@@ -10,8 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Exercicio 69 att">
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Nomes dos exc att">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aa_curso_em_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa_curso_em_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exc070.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc070.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
       <recent name="C:\Users\User\PycharmProjects\pythonTestes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exc069">
+  <component name="RunManager" selected="Python.exc070">
     <configuration name="exc066" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonTestes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exc071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exc070" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonTestes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc070.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exc070" />
         <item itemvalue="Python.exc069" />
         <item itemvalue="Python.exc068" />
         <item itemvalue="Python.exc067" />
         <item itemvalue="Python.exc066" />
-        <item itemvalue="Python.exc071" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587004520896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nomes dos exc att">
+      <created>1587004632025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587004632025</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicios att" />
     <MESSAGE value="Exercicio 69 att" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 69 att" />
+    <MESSAGE value="Nomes dos exc att" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nomes dos exc att" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
@@ -227,22 +237,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586984687563" />
-    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587004357211">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587004685249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587004357211" />
-    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587004357211">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587004685249" />
+    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587004685249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587004357211" />
-    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587004357211">
+    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587004685249" />
+    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587004685249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587004357211" />
-    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587004357211">
+    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587004685249" />
+    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587004685249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587004357211" />
+    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587004685249" />
     <state width="901" height="336" key="GridCell.Tab.1.bottom" timestamp="1585238708408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

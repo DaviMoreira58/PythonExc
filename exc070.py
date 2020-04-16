@@ -4,7 +4,7 @@
 # Quantos produtos custram mais de R$ 1000,00
 # Qual é o nome do produto mais barato.
 
-cont = soma = menor = 0
+"""cont = soma = menor = 0
 while True:
     produto = str(input('Nome do produto: '))
     preço = int(input('Preço: '))
@@ -23,4 +23,6 @@ while True:
         break
 print(cont)
 print(soma)
-print(f'{menor}')
+print(f'{menor}')""" # Não terminei
+
+
