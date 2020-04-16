@@ -29,3 +29,5 @@ print(f'{maiores} pessoas são maiores de 18 anos.')
 print(f'{homens} homens foram cadastrados.')
 print(f'{meninas} são mulheres com menos de 20 anos.')
 print('=' * 20)""" # Meu jeito
+
+
