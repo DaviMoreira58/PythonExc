@@ -10,17 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exercicio 71 atualizado">
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="atualização dos nomes das aulas">
+      <change afterPath="$PROJECT_DIR$/aula016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06a.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula006a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula06b.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula006b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula08.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula09.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula10.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula12.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula14.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula7a.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +47,8 @@
       <recent name="C:\Users\User\PycharmProjects\pythonTestes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exc071">
-    <configuration name="exc067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.aula016">
+    <configuration name="aula016" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonTestes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exc067.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula016.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula016" />
         <item itemvalue="Python.exc071" />
         <item itemvalue="Python.exc070" />
         <item itemvalue="Python.exc069" />
         <item itemvalue="Python.exc068" />
-        <item itemvalue="Python.exc067" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587008418900</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="atualização dos nomes das aulas">
+      <created>1587133311555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587133311556</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +252,8 @@
     <MESSAGE value="Nomes dos exc att 070" />
     <MESSAGE value="Substituição muito legal de um bloco todo de else para uma linha" />
     <MESSAGE value="exercicio 71 atualizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicio 71 atualizado" />
+    <MESSAGE value="atualização dos nomes das aulas" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização dos nomes das aulas" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
@@ -276,22 +276,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586984687563" />
-    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587008508950">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom" timestamp="1587163919457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587008508950" />
-    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587008508949">
+    <state width="900" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587163919457" />
+    <state width="900" height="285" key="GridCell.Tab.0.center" timestamp="1587163919457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587008508949" />
-    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587008508949">
+    <state width="900" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587163919457" />
+    <state width="900" height="285" key="GridCell.Tab.0.left" timestamp="1587163919456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587008508949" />
-    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587008508949">
+    <state width="900" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587163919456" />
+    <state width="900" height="285" key="GridCell.Tab.0.right" timestamp="1587163919457">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587008508949" />
+    <state width="900" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587163919457" />
     <state width="901" height="336" key="GridCell.Tab.1.bottom" timestamp="1585238708408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -316,10 +316,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="655" y="360" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587001526966" />
-    <state x="1048" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586745321773">
+    <state x="1048" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587161210620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1048" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586745321773" />
+    <state x="1048" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587161210620" />
     <state x="623" y="265" width="672" height="678" key="search.everywhere.popup" timestamp="1586996215588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
