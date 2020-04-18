@@ -13,5 +13,7 @@ if 3 in tupla:
     print(f'O valor 3 apareceu na {tupla.index(3)}ª posição')
 else:
     print('O valor 3 não apareceu')
+while tupla % 2 == 0:
+    print(tupla)
 
 
