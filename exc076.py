@@ -8,6 +8,6 @@ lista = ('Lápis', 1.75, 'Borracha', 2.00, 'Caderno', 15.90, 'Estojo', 25.00, 'T
 x = 0
 y = 1
 for cont in range(0, len(lista)):
-    print(f'{lista[x]:.<20}R${lista[y]:.2f}')
+    print(f'{lista[x]:.<20}R${lista[y]:8}')
     x += 2
     y += 2
