@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exc 077 jeito Guanabara">
-      <change afterPath="$PROJECT_DIR$/Aula 017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="Aula 17 criada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -328,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587353597536</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Aula 17 criada">
+      <created>1587359132334</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587359132334</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +368,8 @@
     <MESSAGE value="exc 075 jeito Guanabara" />
     <MESSAGE value="exc 076 jeito Guanabara" />
     <MESSAGE value="exc 077 jeito Guanabara" />
-    <option name="LAST_COMMIT_MESSAGE" value="exc 077 jeito Guanabara" />
+    <MESSAGE value="Aula 17 criada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 17 criada" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
