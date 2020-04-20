@@ -168,23 +168,127 @@ print(f'Essa lista tem {len(num)} elementos.')
 →[7, 5, 3, 2, 1]
 → Essa lista tem 5 elementos.
 
+num = [2, 5, 9, 1]
+num[2] = 3
+num.append = 7
+num.sort(reverse=True)
+num.insert(2, 2)
+print(num)
+print(f'Essa lista tem {len(num)} elementos.')
+→[7, 5, 2, 3, 2, 1]
+→ Essa lista tem 6 elementos.
 
+num = [2, 5, 9, 1]
+num[2] = 3
+num.append = 7
+num.sort(reverse=True)
+num.insert(2, 2)
+num.remove(2) → # Remove o primeiro 2. Ele procura do primeiro item da lista até achar o que deseja ser eliminado, independente se houver mais
+print(num)
+print(f'Essa lista tem {len(num)} elementos.')
+→[7, 5, 3, 2, 1]
+→ Essa lista tem 5 elementos.
 
+num = [2, 5, 9, 1]
+num[2] = 3
+num.append = 7
+num.sort(reverse=True)
+num.insert(2, 2)
+num.remove(4)
+print(num)
+print(f'Essa lista tem {len(num)} elementos.')
+→ Erro
 
+num = [2, 5, 9, 1]
+num[2] = 3
+num.append = 7
+num.sort(reverse=True)
+num.insert(2, 2)
+if 4 in num:
+    num.remove(4)
+else:
+    print('Não achei o numero 4')
+print(num)
+print(f'Essa lista tem {len(num)} elementos.')
+→ Não achei o numero 4
+→[7, 5, 2, 3, 2, 1]
+→ Essa lista tem 6 elementos.
 
+num = [2, 5, 9, 1]
+num[2] = 3
+num.append = 7
+num.sort(reverse=True)
+num.insert(2, 2)
+if 5 in num:
+    num.remove(5)
+else:
+    print('Não achei o numero 5')
+print(num)
+print(f'Essa lista tem {len(num)} elementos.')
+→[7, 2, 3, 2, 1]
+→ Essa lista tem 5 elementos.
 
+_____________________________________________________________________
+* É possivel começar listas vazias de duas formas no python:
 
+valores = []
+  ou
+valores = list()
+______________________________________________________________________
 
+valores = []
+valores.append(5)
+valores.append(9)
+valores.append(4)
 
+for v in valores:
+    print(f'{v}...', end='')
 
+valores = []
+valores.append(5)
+valores.append(9)
+valores.append(4)
+for c, v in enumerate(valores):
+    print(f'Na posição {c} encontrei o valor {v}!')
+→print('Cheguei ao final da lista')
+→Na posição 0 encontrei o valor 5!
+→Na posição 1 encontrei o valor 9!
+→Na posição 2 encontrei o valor 4!
+→Cheguei ao final da lista
 
+valores = list()
+for cont in range(0, 5):
+    valores.append(int(input('Digite um valor: ')))
+for c, v in enumerate(valores):
+    print(f'Na posição {c} encontrei o valor {v}!')
+print('Cheguei ao final da lista')
 
+a = [2, 3, 4, 7]
+b = a
+print(a)
+print(b)
 
+a = [2, 3, 4, 7]
+b = a
+print(f'Lista A: {a}')
+print(f'Lisya B: {b}')
+→Lista A: [2, 3, 4, 7]
+→Lisya B: [2, 3, 4, 7]
 
+a = [2, 3, 4, 7]
+b = a →→ Dessse jeito é uma ligação
+b[2] = 8 # Não altera só a B pois o python faz uma ligação entre listas
+print(f'Lista A: {a}')
+print(f'Lisya B: {b}')
+→Lista A: [2, 3, 8, 7]
+→Lista B: [2, 3, 8, 7]
 
-
-
-
-
+a = [2, 3, 4, 7]
+b = a[:]→ Assim copiamos todos os item de 'a' na lista 'b', assim nçao existe uma ligação e sim uma cópia
+b[2] = 8
+print(f'Lista A: {a}')
+print(f'Lista B: {b}')
+→Lista A: [2, 3, 4, 7]
+→Lista B: [2, 3, 8, 7]
 
 """
