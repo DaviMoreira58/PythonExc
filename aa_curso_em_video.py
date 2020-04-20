@@ -121,8 +121,11 @@ b) Os últimos 4 colocados.
 c) Times em ordem alfabética.
 d) Em que posição está o time da Chapecoense.
 Exercício Python 074: Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
-
-
+Exercício Python 075: Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
+A) Quantas vezes apareceu o valor 9.
+B) Em que posição foi digitado o primeiro valor 3.
+C) Quais foram os números pares.
+Exercício Python 076: Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
 
 
