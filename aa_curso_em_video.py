@@ -115,7 +115,11 @@ B) quantos produtos custam mais de R$1000.
 C) qual é o nome do produto mais barato.
 Exercício Python 071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues
 Exercício Python 072: Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
-
+Exercício Python 073: Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+a) Os 5 primeiros times.
+b) Os últimos 4 colocados.
+c) Times em ordem alfabética.
+d) Em que posição está o time da Chapecoense.
 
 
 
