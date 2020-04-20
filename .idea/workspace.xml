@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exc 073 jeito Guanabara">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa_curso_em_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa_curso_em_video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exc074.py" beforeDir="false" afterPath="$PROJECT_DIR$/exc074.py" afterDir="false" />
-    </list>
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exc 074 jeito Guanabara" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -301,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587350511042</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="exc 074 jeito Guanabara">
+      <created>1587351363303</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587351363303</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +336,8 @@
     <MESSAGE value="exc 076 realizado por Davi, imcompleto pq não consegui fazer a formatação de dinheiro." />
     <MESSAGE value="exc 072 jeito Guanabara" />
     <MESSAGE value="exc 073 jeito Guanabara" />
-    <option name="LAST_COMMIT_MESSAGE" value="exc 073 jeito Guanabara" />
+    <MESSAGE value="exc 074 jeito Guanabara" />
+    <option name="LAST_COMMIT_MESSAGE" value="exc 074 jeito Guanabara" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
