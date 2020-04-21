@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exc079 do jeito guanabara">
-      <change afterPath="$PROJECT_DIR$/exc080.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa_curso_em_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa_curso_em_video.py" afterDir="false" />
-    </list>
+    <list default="true" id="9080579b-0909-4768-bdcc-7d1e3497cf2b" name="Default Changelist" comment="exc 080 incompleto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587440964847</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="exc 080 incompleto">
+      <created>1587441908587</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1587441908587</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +383,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exercicios att" />
     <MESSAGE value="Exercicio 69 att" />
     <MESSAGE value="Nomes dos exc att" />
     <MESSAGE value="Nomes dos exc att 070" />
@@ -404,7 +407,8 @@
     <MESSAGE value="exc078 do meu jeito" />
     <MESSAGE value="exc078 do jeito guanabara" />
     <MESSAGE value="exc079 do jeito guanabara" />
-    <option name="LAST_COMMIT_MESSAGE" value="exc079 do jeito guanabara" />
+    <MESSAGE value="exc 080 incompleto" />
+    <option name="LAST_COMMIT_MESSAGE" value="exc 080 incompleto" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="177" key="#Inspections" timestamp="1586487899520">
