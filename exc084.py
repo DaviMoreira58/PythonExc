@@ -3,25 +3,34 @@
 # B) Uma listagem com as pessoas mais pesadas.
 # C) Uma listagem com as pessoas mais leves.
 
-pessoas = list()
-dados = list()
-tot = 0
-pesados = 0
-leves = 0
+temp = list()
+princ = list()
+mai = men = 0
 
 while True:
-    dados.append(str(input('Nome: ')))
-    dados.append(float(input('Peso: ')))
-    tot += 1
-    pessoas.append(dados[:])
-    dados.clear()
+    temp.append(str(input('Nome: ')))
+    temp.append(float(input('Peso: ')))
+    if len(princ) == 0:
+        mai = men = temp[1]
+    else:
+        if temp[1] > mai:
+            mai = temp[1]
+        if temp[1] < men:
+            men = temp[1]
+    princ.append(temp[:])
+    temp.clear()
     continuar = str(input('Quer continuar? [S/N] ')).upper().split()[0]
-    if pessoas[1] >= 100:
-        pesados += 1
     if continuar in 'Nn':
         break
 
-print(pessoas)
-print(f'Foram cadastradas {tot} pessoas.')
-print(f'{pesados} pessoas estão acima do peso.')
-print(f'{leves} pessoas estão abaixo do peso.')
+print('-=' * 30)
+print(f'Ao todo, você cadastrou {len(princ)} pessoas.')
+print(f'O maior peso foi de {mai}Kg. Peso de ', end='')
+for p in princ:
+    if p[1] == mai:
+        print(f'[{p[0]}]', end=' ')
+print()
+print(f'O menor peso foi de {men}Kg. Peso de ', end='')
+for p in princ:
+    if p[1] == men:
+        print(f'[{p[0]}]', end=' ')
