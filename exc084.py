@@ -8,17 +8,20 @@ dados = list()
 tot = 0
 pesados = 0
 leves = 0
+
 while True:
     dados.append(str(input('Nome: ')))
-    dados.append(float(input('Peso: ')))
+    dados.append(int(input('Peso: ')))
+    tot += 1
     pessoas.append(dados[:])
+    dados.clear()
     continuar = str(input('Quer continuar? [S/N] ')).upper().split()[0]
-    for p in pessoas:
-        if p[1] >= 100:
-            pesados += 1
-        if p[1] <= 70:
-            leves += 1
+    if pessoas[1] >= 100:
+        pesados += 1
     if continuar in 'Nn':
         break
 
-print(pesados)
+print(pessoas)
+print(f'Foram cadastradas {tot} pessoas.')
+print(f'{pesados} pessoas estão acima do peso.')
+print(f'{leves} pessoas estão abaixo do peso.')

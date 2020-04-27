@@ -141,7 +141,3 @@ print(f'Temos {totmai} maiores de idade e {totmen} menores de idade.')
 """
 
 
-
-
-
-
