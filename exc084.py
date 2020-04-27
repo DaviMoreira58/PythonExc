@@ -11,7 +11,7 @@ leves = 0
 
 while True:
     dados.append(str(input('Nome: ')))
-    dados.append(int(input('Peso: ')))
+    dados.append(float(input('Peso: ')))
     tot += 1
     pessoas.append(dados[:])
     dados.clear()
